@@ -157,3 +157,7 @@ Interestingly, all exposed skin suggests that the training dataset for the NSFW 
 日本人设计的一张独特的世界地图，可以更好保持大陆的面积比例
 
 评论：看到这样古老朴素的问题能有新的表现方法，非常有启发性
+
+##[Seeing Theory](http://students.brown.edu/seeing-theory/)
+布朗大学制作的一个数据可视化项目，将统计学的概念和原理以图形的方式呈现，作为抽象数学概念的直观表达
+
